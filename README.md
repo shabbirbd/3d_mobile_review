@@ -27,6 +27,6 @@ To explore the 3D preview, simply navigate to the live demo. Use your mouse or t
 
 ## Acknowledgments
 
-- Thanks to the creators and gsap Three.js for their amazing libraries.
+- Thanks to the creators of gsap Three.js for their amazing libraries.
 - A shoutout to Apple for the inspiration.
 - A shoutout to Adrian from JSMastery who helped me building this project.
