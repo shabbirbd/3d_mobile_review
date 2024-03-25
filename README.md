@@ -4,12 +4,12 @@ This is an exact clone of the Apple iPhone 15 Pro preview web page.
 
 ## Demo
 
-Link to a live demo: [Live Demo] (https://3d-mobile-review.vercel.app/)
+Link to a live demo: [Live Demo](https://3d-mobile-review.vercel.app/)
 
 ## Screenshots
 
-![App Screenshot] (https://i.ibb.co/VBn9Lbw/Screenshot-2024-03-25-at-5-14-01-PM.png)
-![App Screenshot] (https://i.ibb.co/pyJ4w20/Screenshot-2024-03-25-at-5-17-29-PM.png)
+![App Screenshot](https://i.ibb.co/VBn9Lbw/Screenshot-2024-03-25-at-5-14-01-PM.png)
+![App Screenshot](https://i.ibb.co/pyJ4w20/Screenshot-2024-03-25-at-5-17-29-PM.png)
 
 ## Features
 
